@@ -1,0 +1,5 @@
+something.name = retorna o tipo de tag (div, a, li, p, ...)
+
+something['href'] = retorna as informações de dentro do href
+
+there is .find_parent

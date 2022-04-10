@@ -1,0 +1,187 @@
+1o-
+
+2o-<div class="left-part">
+<i class="fas fa-graduation-cap"></i>
+<h1>Register to our courses</h1>
+<p>W3docs provides free learning materials for programming languages like HTML, CSS, Java Script, PHP etc.</p>
+<div class="btn-group">
+<a class="btn-item" href="https://www.w3docs.com/learn-html.html">Learn HTML</a>
+<a class="btn-item" href="https://www.w3docs.com/quiz/#">Select Quiz</a>
+</div>
+        $2345
+      </div>
+3o-
+
+4o-<i class="fas fa-graduation-cap"></i>
+5o-
+
+6o-<h1>Register to our courses</h1>
+7o-Register to our courses
+8o-
+
+9o-<p>W3docs provides free learning materials for programming languages like HTML, CSS, Java Script, PHP etc.</p>
+10o-W3docs provides free learning materials for programming languages like HTML, CSS, Java Script, PHP etc.
+11o-
+
+12o-<div class="btn-group">
+<a class="btn-item" href="https://www.w3docs.com/learn-html.html">Learn HTML</a>
+<a class="btn-item" href="https://www.w3docs.com/quiz/#">Select Quiz</a>
+</div>
+13o-
+
+14o-<a class="btn-item" href="https://www.w3docs.com/learn-html.html">Learn HTML</a>
+15o-Learn HTML
+16o-
+
+17o-<a class="btn-item" href="https://www.w3docs.com/quiz/#">Select Quiz</a>
+18o-Select Quiz
+19o-
+
+20o-
+        $2345
+      
+21o-
+
+22o-<form action="/">
+<div class="title">
+<i class="fas fa-pencil-alt"></i>
+<h2>Register here</h2>
+</div>
+        $123
+        <div class="info">
+<input class="fname" name="name" placeholder="Full name" type="text"/>
+<input name="name" placeholder="Email" type="text"/>
+<input name="name" placeholder="Phone number" type="text"/>
+<input name="name" placeholder="Password" type="password"/>
+<select>
+<option selected="" value="course-type">Course type*</option>
+<option value="short-courses">Short courses</option>
+<option value="featured-courses">Featured courses</option>
+<option value="undergraduate">Undergraduate</option>
+<option value="diploma">Diploma</option>
+<option value="certificate">Certificate</option>
+<option value="masters-degree">Masters degree</option>
+<option value="postgraduate">Postgraduate</option>
+</select>
+</div>
+<div class="checkbox">
+<input name="checkbox" type="checkbox"/><span>I agree to the <a href="https://www.w3docs.com/privacy-policy">Privacy Poalicy for W3Docs.</a></span>
+</div>
+<button href="/" type="submit">Submit</button>
+</form>
+23o-
+
+24o-<div class="title">
+<i class="fas fa-pencil-alt"></i>
+<h2>Register here</h2>
+</div>
+25o-
+
+26o-<i class="fas fa-pencil-alt"></i>
+27o-
+
+28o-<h2>Register here</h2>
+29o-Register here
+30o-
+
+31o-
+        $123
+        
+32o-<div class="info">
+<input class="fname" name="name" placeholder="Full name" type="text"/>
+<input name="name" placeholder="Email" type="text"/>
+<input name="name" placeholder="Phone number" type="text"/>
+<input name="name" placeholder="Password" type="password"/>
+<select>
+<option selected="" value="course-type">Course type*</option>
+<option value="short-courses">Short courses</option>
+<option value="featured-courses">Featured courses</option>
+<option value="undergraduate">Undergraduate</option>
+<option value="diploma">Diploma</option>
+<option value="certificate">Certificate</option>
+<option value="masters-degree">Masters degree</option>
+<option value="postgraduate">Postgraduate</option>
+</select>
+</div>
+33o-
+
+34o-<input class="fname" name="name" placeholder="Full name" type="text"/>
+35o-
+
+36o-<input name="name" placeholder="Email" type="text"/>
+37o-
+
+38o-<input name="name" placeholder="Phone number" type="text"/>
+39o-
+
+40o-<input name="name" placeholder="Password" type="password"/>
+41o-
+
+42o-<select>
+<option selected="" value="course-type">Course type*</option>
+<option value="short-courses">Short courses</option>
+<option value="featured-courses">Featured courses</option>
+<option value="undergraduate">Undergraduate</option>
+<option value="diploma">Diploma</option>
+<option value="certificate">Certificate</option>
+<option value="masters-degree">Masters degree</option>
+<option value="postgraduate">Postgraduate</option>
+</select>
+43o-
+
+44o-<option selected="" value="course-type">Course type*</option>
+45o-Course type*
+46o-
+
+47o-<option value="short-courses">Short courses</option>
+48o-Short courses
+49o-
+
+50o-<option value="featured-courses">Featured courses</option>
+51o-Featured courses
+52o-
+
+53o-<option value="undergraduate">Undergraduate</option>
+54o-Undergraduate
+55o-
+
+56o-<option value="diploma">Diploma</option>
+57o-Diploma
+58o-
+
+59o-<option value="certificate">Certificate</option>
+60o-Certificate
+61o-
+
+62o-<option value="masters-degree">Masters degree</option>
+63o-Masters degree
+64o-
+
+65o-<option value="postgraduate">Postgraduate</option>
+66o-Postgraduate
+67o-
+
+68o-
+
+69o-
+
+70o-<div class="checkbox">
+<input name="checkbox" type="checkbox"/><span>I agree to the <a href="https://www.w3docs.com/privacy-policy">Privacy Poalicy for W3Docs.</a></span>
+</div>
+71o-
+
+72o-<input name="checkbox" type="checkbox"/>
+73o-<span>I agree to the <a href="https://www.w3docs.com/privacy-policy">Privacy Poalicy for W3Docs.</a></span>
+74o-I agree to the 
+75o-<a href="https://www.w3docs.com/privacy-policy">Privacy Poalicy for W3Docs.</a>
+76o-Privacy Poalicy for W3Docs.
+77o-
+
+78o-
+
+79o-<button href="/" type="submit">Submit</button>
+80o-Submit
+81o-
+
+82o-
+
