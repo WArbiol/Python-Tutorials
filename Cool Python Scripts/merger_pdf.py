@@ -3,8 +3,9 @@ import PyPDF2
 # import glob
 # pdfs = sorted(glob.glob('./*.pdf'))
 
-pdfs = ['Dreams onto the Path_compressed (1)1.pdf', 'Dreams onto the Path_compressed (1)2.pdf',
-        'Dreams onto the Path_compressed (1)3.pdf']
+pdfs = ['pdf1.pdf', 
+	'pdf2.pdf',
+        'pdf3.pdf']
 
 writer = PyPDF2.PdfWriter()
 for pdf in pdfs:
@@ -18,6 +19,6 @@ for pdf in pdfs:
         writer.add_page(page)
 
 
-output = open('Dreams onto the Path.pdf', 'wb')
+output = open('seu_output.pdf', 'wb')
 writer.write(output)
 output.close()

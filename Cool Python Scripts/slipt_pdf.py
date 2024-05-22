@@ -1,6 +1,6 @@
 import PyPDF2, os
 
-src_file = 'los misterios ocultos del Divino Daimon juan Capasso-1.pdf'
+src_file = 'nomde_do_pdf.pdf'
 number_of_splits = 4
 
 with open(src_file, 'rb') as act_mls:
