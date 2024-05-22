@@ -9,4 +9,4 @@ def concat_mp3s(mp3s, output):
         input_args.append(ffmpeg.input(mp3))
     ffmpeg.concat(*input_args, v=0, a=1).output(output).run()
 
-concat_mp3s(mp3s, "./Cristus Lucifer - Semana Santa 2005 - VM Lakhsmi Daimon.mp3")
+concat_mp3s(mp3s, "./seu_output.mp3")
