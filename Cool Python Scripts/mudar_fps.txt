@@ -1,0 +1,1 @@
+ffmpeg -i (input) -filter:v fps=25 (output)
